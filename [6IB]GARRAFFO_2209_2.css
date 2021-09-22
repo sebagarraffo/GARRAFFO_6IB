@@ -1,0 +1,27 @@
+body
+{
+  background-image: url(https://www.xtrafondos.com/descargar.php?id=3293&resolucion=1920x1080);
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table
+{
+    background-color:lightblue;
+    color: black;
+    font-size:xx-large;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+}
+
+div
+{
+  background-color:lightblue;
+  color: black;
+  font-size: xx-large;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
